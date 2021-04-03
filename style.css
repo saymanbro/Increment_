@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background: #2e346c;
+  display: flex;
+  justify-content:center;
+  margin-top: 300px;
+  text-align: center;
+  font-family: consolas;
+}
+.counter_container{
+    margin:0 80px;
+}
+.counter_container i{
+    color:#fff;
+    font-size: 5rem;
+}
+.counter_container span{
+    color: #fff;
+}
+.counter_box{
+    margin: 20px 0;
+    color: #f9b013;
+    font-size: 4rem;
+}
